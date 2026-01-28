@@ -1,0 +1,33 @@
+🧠 QUICK DEBUG CHECKLIST (USE DAILY)
+
+Whenever compilation fails:
+
+1️⃣ pwd → where am I?
+2️⃣ ls → is the file here?
+3️⃣ cd → go to correct folder
+4️⃣ compile again
+
+90% of terminal errors are solved here.
+
+🔁 DAILY RULE (MEMORIZE THIS)
+
+Every day:
+
+1️⃣ cd DayXX
+2️⃣ Write code
+3️⃣ g++ file.cpp -o run
+4️⃣ ./run
+5️⃣ cd ..
+6️⃣ git add . && git commit && git push
+
+If you follow this, you’ll never get lost again.
+
+🧠 WHY YOU WON’T SEE THIS ERROR AGAIN
+
+You now know:
+
+pwd → where you are
+
+ls → what files exist
+
+Compiler works only where files exist
