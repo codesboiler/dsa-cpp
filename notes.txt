@@ -31,3 +31,18 @@ pwd → where you are
 ls → what files exist
 
 Compiler works only where files exist
+
+🔁 DAILY CHECKLIST (USE THIS DAILY)
+
+Before pushing, always run:
+
+git status
+
+
+Ask yourself:
+
+Do I see today’s code file?
+
+Do I see notes.txt (modified)?
+
+If yes → git add . is safe.
