@@ -1,9 +1,11 @@
-# macOS
+# macOS system files
 .DS_Store
 
-# VS Code
+# VS Code settings
 .vscode/
 
-# Executables
+# Compiled executables
 a.out
 run
+*.out
+*.exe
