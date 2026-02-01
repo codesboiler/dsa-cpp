@@ -1,0 +1,2 @@
+1-prefix sum with range l and r and q queries
+2-
